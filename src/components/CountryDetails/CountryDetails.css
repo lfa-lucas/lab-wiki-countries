@@ -1,0 +1,10 @@
+.country-detailed{
+    color: rgb(99, 97, 97);
+    font-size: 2rem;
+    font-weight: bold;   
+    margin: 20px 0 20px 20px;
+}
+
+.country-borders {
+    color:  rgb(99, 97, 97);
+}
